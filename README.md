@@ -23,6 +23,6 @@ data model matters as much as the code.
 Data-intensive backends, API design, and integrating messy external systems
 into something coherent.
 
-📍 Madrid · 🇪🇺 EU citizen · Open to remote and Ireland-based roles
+📍 Madrid · 🇪🇺 EU citizen · Open to relocate to EU
 
 [LinkedIn](https://www.linkedin.com/in/manuelmartinsierradeveloper/) · manumartin997@gmail.com
